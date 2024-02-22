@@ -1,0 +1,14 @@
+main .container-fluid {
+    background-image: url('../images/fime.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.left-side {
+    padding: 3rem;
+}
+
+.img-fluid.bear {
+    height: 100vh;
+}
