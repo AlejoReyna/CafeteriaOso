@@ -1,0 +1,7 @@
+/Users/mapaches/Documents/CafeteriaOso/AspNet/aspnetcorewebapp/obj/Debug/net8.0/aspnetcorewebapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mapaches/Documents/CafeteriaOso/AspNet/aspnetcorewebapp/obj/Debug/net8.0/aspnetcorewebapp.AssemblyInfoInputs.cache
+/Users/mapaches/Documents/CafeteriaOso/AspNet/aspnetcorewebapp/obj/Debug/net8.0/aspnetcorewebapp.AssemblyInfo.cs
+/Users/mapaches/Documents/CafeteriaOso/AspNet/aspnetcorewebapp/obj/Debug/net8.0/aspnetcorewebapp.csproj.CoreCompileInputs.cache
+/Users/mapaches/Documents/CafeteriaOso/AspNet/aspnetcorewebapp/obj/Debug/net8.0/aspnetcorewebapp.MvcApplicationPartsAssemblyInfo.cache
+/Users/mapaches/Documents/CafeteriaOso/AspNet/aspnetcorewebapp/obj/Debug/net8.0/aspnetcorewebapp.RazorAssemblyInfo.cache
+/Users/mapaches/Documents/CafeteriaOso/AspNet/aspnetcorewebapp/obj/Debug/net8.0/aspnetcorewebapp.RazorAssemblyInfo.cs
